@@ -1,0 +1,4 @@
+cd ~/BeamShift
+source ncnn-venv/bin/activate
+cd raspberry_pi/vision
+python TrialF5.py
